@@ -3,8 +3,3 @@ pandas
 SQLAlchemy
 python-dotenv
 
-
-psycopg2
-psycopg2.extras import execute_batch
-os
-re
