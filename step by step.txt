@@ -1,0 +1,9 @@
+- Create a folder on your local desktop
+- Open the folder on visual studio code 
+- Create a python file (test.py)
+- Create a virtual enviroment and activate it ( python -m venv venv)
+- Install required packages e.g; Pandas(pip intall pandas psycopg2-binary python-dotenv)
+- pip install openpyxl (for excel)
+- Run your test.py extracted script on a cmd terminal
+- Create a file named transformed file and Run your transformed script on a cmd terminal
+- Create another file named loading_to_postgres and run the code on a cmd terminal
