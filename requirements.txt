@@ -3,7 +3,7 @@ pandas
 SQLAlchemy
 python-dotenv
 
-pandas as pd
+
 psycopg2
 psycopg2.extras import execute_batch
 os
